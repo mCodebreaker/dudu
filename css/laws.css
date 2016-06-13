@@ -1,0 +1,85 @@
+.wrap {
+	height:3240px;
+}
+#banner {
+	width:905px;
+	height:140px;
+	margin-top:32px;
+	margin-left:auto;
+	margin-right:auto;
+	color:#714f4f;
+	font-family:"微软雅黑";
+}
+#banner h1 {
+	height:61px;
+	font-size:38px;
+	margin:0 auto 50px auto;
+	width:294px;
+	text-align:center;
+}
+#banner-right {
+	border-bottom:solid 1px #594942;
+	overflow:hidden;
+}
+#banner-right a {
+	background:#594942 url(../images/btn_back_light.png) no-repeat;
+	color:#fff;
+	font-size:18px;
+	float:right;
+	height:21px;
+	line-height:20px;
+	padding-left:22px;
+	padding-right:5px;
+}
+
+#content {
+	color:#714f4f;
+	width:895px;
+	margin:27px auto 0 auto;
+}
+#content h2 {
+	margin:;
+	font-family:"微软雅黑";
+	font-size:24px;
+	font-weight:normal;
+}
+#content p {
+	font-size:12px;
+	line-height:20px;
+}
+#content p {
+	font-size:12px;
+	line-height:20px;
+}
+#content p.indent {
+	text-indent:2em;
+}
+#content #p1 {
+	width:733px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#content a {
+	color:#714f4f;
+}
+
+#data_source {
+	width:460px;
+	margin-top:26px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#data_source a {
+	color:#714f4f;
+}
+
+
+#btn_to_top {
+	width:36px;
+	height:34px;
+	background:url(../images/btn_to_top.png) no-repeat;
+	position:fixed;
+	left:150px;
+	bottom:20px;
+	z-index:1;
+}

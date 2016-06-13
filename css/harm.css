@@ -1,0 +1,139 @@
+#banner {
+	width:905px;
+	height:138px;
+	margin-top:43px;
+	margin-left:auto;
+	margin-right:auto;
+	color:#714f4f;
+	font-family:"微软雅黑";
+}
+#banner h1 {
+	font-size:72px;
+	margin:10px auto;
+	width:605px;
+	text-align:center;
+}
+#banner-right {
+	border-bottom:solid 1px #594942;
+	overflow:hidden;
+}
+#banner-right a {
+	background:#594942 url(../images/btn_back_light.png) no-repeat;
+	color:#fff;
+	font-size:18px;
+	float:right;
+	line-height:23px;
+	padding-left:22px;
+	padding-right:5px;
+}
+
+#content {
+	width:1036px;
+	margin:0 auto;
+	position:relative;
+}
+
+#content h2 {
+	color:#714f4f;
+	font-size:18px;
+	font-family:"微软雅黑";
+	margin:0;
+}
+
+/* 危害 */
+#harm {
+	position:relative;
+	height:655px;
+}
+#harm #man{
+	width:230px;
+	height:622px;
+	background:url(../images/harm-man.png) no-repeat;
+	margin:0 auto;
+	position:absolute;
+	left:397px;
+	top:33px;
+}
+.item p {
+	background-color:#714f4f;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	margin:0;
+	padding:5px 7px;
+	position:absolute;
+	color:#fff;
+	font-size:12px;
+	line-height:20px;
+}
+.item span {
+	position:absolute;
+	width:15px;
+	height:15px;
+	background:url(../images/harm-dot.png) no-repeat;
+}
+#item1 p {
+	width:206px;
+	left:222px;
+	top:17px;
+}
+#item1 span {
+	left:487px;
+	top:48px;
+}
+#item2 p {
+	width:214px;
+	left:561px;
+	top:30px;
+}
+#item2 span {
+	left:515px;
+	top:48px;
+}
+#item3 p {
+	width:235px;
+	left:631px;
+	top:107px;
+}
+#item3 span {
+	left:502px;
+	top:131px;
+}
+#item4 p {
+	width:170px;
+	left:627px;
+	top:266px;
+}
+#item4 span {
+	left:502px;
+	top:269px;
+}
+#item5 p {
+	width:238px;
+	left:156px;
+	top:305px;
+}
+#item5 span {
+	left:426px;
+	top:318px;
+}
+/* 预防 */
+#prevent {
+	background-color:#714f4f;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	margin:0;
+	padding:5px 10px;
+	color:#fff;
+	font-size:12px;
+	line-height:20px;
+}
+/* 资料来源 */
+#data_source  {
+	color:#714f4f;
+	font-size:12px;
+	line-height:20px;
+	text-align:center;
+}
+#data_source a {
+	color:#714f4f;
+}

@@ -1,0 +1,131 @@
+.wrap {
+	background-image:url(../images/graphic-banner-bg.png);
+	background-repeat:repeat-x;
+	color:#714f4f;
+	font-family:"微软雅黑";
+	height:2800px;
+}
+#banner {
+	width:898px;
+	height:118px;
+	margin-top:35px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#banner h1 {
+	font-size:38px;
+	line-height:1;
+	text-align:center;
+}
+#banner-right {
+}
+#banner-right a {
+	background:#594942 url(../images/btn_back_light.png) no-repeat;
+	color:#fff;
+	font-size:18px;
+	float:right;
+	line-height:23px;
+	padding-left:22px;
+	padding-right:5px;
+}
+
+.intro {
+	width:1300px;
+	line-height:2;
+	font-size:24px;
+	margin:0 auto;
+	text-indent:35px;
+}
+
+#content > ul {
+	width:1060px;
+	list-style:none;
+	margin:0 auto;
+}
+#content > ul > li {
+	
+}
+/* 吸毒人群 */
+#crowd {
+	margin-top:43px;
+	overflow:hidden;
+}
+#crowd span {
+	font-size:18.4px;
+	float:left;
+	margin-top:36px;
+}
+#crowd ul {
+	float:left;
+	list-style:none;
+	padding:0;
+	width:765px;
+}
+#crowd ul li {
+	margin-right:23px;
+	width:130px;
+	height:136px;
+	float:left;
+}
+#crowd ul li img {
+	width:92px;
+	height:92px;
+	display:block;
+	margin:0 auto;
+}
+#crowd ul li div {
+	font-size:18.4px;
+	font-weight:bold;
+	margin-top:10px;
+	text-align:center;
+}
+
+#item2 {
+	margin-bottom:43px;
+}
+#item2 img {
+	margin-top:25px;
+	margin-left:140px;
+}
+
+#item3 {
+	margin-bottom:60px;
+}
+#item3 img {
+	margin-left:166px;
+}
+
+#item4 {
+	margin-bottom:60px;
+}
+#item4 img {
+	margin-top:-44px;
+	margin-left:128px;
+}
+
+.remark {
+	width:560px;
+	color:#8d8d8d;
+	font-family:"微软雅黑";
+	font-size:14px;
+	text-indent:-2em;
+	padding-left:2em;
+	line-height:24px;
+	margin-top:70px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.remark a {
+	color:#8d8d8d;
+}
+
+#btn_to_top {
+	width:36px;
+	height:34px;
+	background:url(../images/btn_to_top.png) no-repeat;
+	position:fixed;
+	left:150px;
+	bottom:20px;
+	z-index:1;
+}
